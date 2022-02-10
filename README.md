@@ -8,4 +8,4 @@
   - DART.IMT.C.06: Linux Basics: The Command Line Interface 2020-08
   
 - Free Code Camp: 
-  - Responsive Web Desing: [https://freecodecamp.org/espanol/certification/rival21/responsive-web-design](https://freecodecamp.org/espanol/certification/rival21/responsive-web-design)    2021-09-14
+  - Responsive Web Desing: [https://freecodecamp.org/espanol/certification/Ribal21/responsive-web-design](https://freecodecamp.org/espanol/certification/Ribal21/responsive-web-design)    2021-09-14
