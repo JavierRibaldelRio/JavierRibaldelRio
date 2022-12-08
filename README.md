@@ -12,4 +12,4 @@
   - JavaScript Algorithms and Data Structures: [https://www.freecodecamp.org/certification/Ribal21/javascript-algorithms-and-data-structures](https://www.freecodecamp.org/certification/Ribal21/javascript-algorithms-and-data-structures) 2022-04-16
   - Front End Development Libraries: [https://www.freecodecamp.org/certification/Ribal21/front-end-development-libraries](https://www.freecodecamp.org/certification/Ribal21/front-end-development-libraries) 2022-08-11
   - Data Visualization: [https://www.freecodecamp.org/certification/Ribal21/data-visualization](https://www.freecodecamp.org/certification/Ribal21/data-visualization) 2022-09-09
-  - Back End Development and APIs [https://www.freecodecamp.org/certification/Ribal21/back-end-development-and-apis](https://www.freecodecamp.org/certification/Ribal21/back-end-development-and-apis) 2022-12-8
+  - Back End Development and APIs [https://www.freecodecamp.org/certification/Ribal21/back-end-development-and-apis](https://www.freecodecamp.org/certification/Ribal21/back-end-development-and-apis) 2022-12-08
