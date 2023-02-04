@@ -1,4 +1,4 @@
-# PROGRAMING COURSES
+# PROGRAMMING COURSES
 - Estiu Jove:
   - Programación en Android (Java) 2020-07-24
   - Introducción a la Programación (Java) 2020-07-10
