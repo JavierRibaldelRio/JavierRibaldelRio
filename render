@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+quarto render
+
+quarto render es
+
+firefox --new-tab file:///home/Link/Desktop/Programacion/JavierRibaldelRio/_site/index.html

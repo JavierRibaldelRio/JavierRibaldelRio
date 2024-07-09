@@ -1,0 +1,32 @@
+project:
+  type: website
+  preview: 
+    port: 3000
+
+website:
+  title: "Javier Ribal del Río"
+  favicon: "img/Javier-Ribal-del-Rio.jpg"
+  navbar:
+    right:
+      - blog.qmd
+      - hobbies.qmd
+      - href: es/index.html
+        text: "![ES](img/es.png) Spanish"
+      - icon: github
+        href: https://github.com/JavierRibaldelRio
+        target: blank
+      - icon: linkedin
+        href: https://linkedin.com/in/javier-ribal-del-rio
+        target: blank
+      - icon: envelope
+        href: mailto:javierribaldelrio@gmail.com
+
+format:
+  html:
+    theme: 
+      light: sandstone
+      dark: darkly
+    css: styles.css
+
+
+

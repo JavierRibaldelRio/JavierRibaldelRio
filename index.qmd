@@ -1,0 +1,27 @@
+---
+title: "Javier Ribal del Río"
+image: img/Javier-Ribal-del-Rio.jpg
+about:
+  template: trestles
+  image-title: Javier Ribal del Río
+  image-shape: round
+  image-width: 15em
+  
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/javier-ribal-del-rio
+      target: blank
+    - icon: github
+      text: Github
+      href: https://github.com/JavierRibaldelRio
+      target: blank
+    - icon: envelope
+      text: Email
+      href: mailto:javierribaldelrio@gmail.com
+
+---
+
+About this blog
+
+
