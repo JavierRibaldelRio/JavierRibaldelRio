@@ -6,13 +6,3 @@ freeze: true
 
 # Enable banner style title blocks
 title-block-banner: true
-
-website:
-  title: asdfasdfa sfadsf
-  navbar:
-    right: 
-      - icon: github
-        href: github.com
-
-
-

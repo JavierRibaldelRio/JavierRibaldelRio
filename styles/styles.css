@@ -1,0 +1,29 @@
+/* styles.css*/
+
+
+
+
+
+.language-icon {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 24px;
+    min-height: 24px;
+
+    padding: 12px;
+
+    margin-right: 4px;
+}
+
+.icon-es {
+
+    background-image: url('../img/es.png');
+
+}
+
+.icon-en {
+
+    background-image: url('../img/gb.png');
+
+}

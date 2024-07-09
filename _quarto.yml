@@ -3,15 +3,20 @@ project:
   preview: 
     port: 3000
 
+  render: 
+    - "*.qmd"
+    - "!es/"
+    -  "README.md"
+
 website:
   title: "Javier Ribal del Río"
   favicon: "img/Javier-Ribal-del-Rio.jpg"
   navbar:
     right:
       - blog.qmd
-      - hobbies.qmd
+      - pages/hobbies.qmd
       - href: es/index.html
-        text: "![ES](img/es.png) Spanish"
+        text: "<span class='language-icon icon-es'></span>Spanish"
       - icon: github
         href: https://github.com/JavierRibaldelRio
         target: blank
@@ -26,7 +31,7 @@ format:
     theme: 
       light: sandstone
       dark: darkly
-    css: styles.css
+    css: styles/styles.css
 
 
 

@@ -12,9 +12,9 @@ website:
       - href: ../blog.html
         text: Blog
 
-      - hobbies.qmd 
+      - pages/hobbies.qmd 
       - href: ../index.html
-        text: '![EN](img/gb.png) English'   
+        text: "<span class='language-icon icon-en'></span>English"    
       - icon: github
         href: https://github.com/JavierRibaldelRio
         target: blank
@@ -26,8 +26,10 @@ website:
 
 format:
   html:
-    theme: sandstone
-    css: styles.css
+    theme: 
+      light: sandstone
+      dark: darkly
+    css: ../styles/styles.css
 
 
 
