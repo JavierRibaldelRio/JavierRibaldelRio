@@ -12,9 +12,12 @@ website:
   title: "Javier Ribal del Río"
   favicon: "img/Javier-Ribal-del-Rio.jpg"
   navbar:
-    right:
+
+    left: 
+      - proyects.qmd
       - blog.qmd
-      - pages/hobbies.qmd
+    right:
+     
       - href: es/index.html
         text: "<span class='language-icon icon-es'></span>Spanish"
       - icon: github
@@ -32,6 +35,11 @@ format:
       light: sandstone
       dark: darkly
     css: styles/styles.css
+    includes:
+      in-header: |
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+
 
 
 

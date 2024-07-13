@@ -1,29 +1,68 @@
-/* styles.css*/
+/* Blog */
+.category::first-letter {
+    text-transform: uppercase;
+}
+
+
+/*----------------------*/
+/*        Index         */
+/*----------------------*/
+.active.show.tab-pane {
+    animation: aparecer-desde-abajo .4s linear forwards;
+}
+
+@keyframes aparecer-desde-abajo {
+    100% {
+        opacity: 1;
+
+        padding: 0%;
+    }
+
+    0% {
+        padding-top: 5%;
+        opacity: .3;
+    }
+}
+
+.transición-barra {
+    animation: cargar-barra 3s ease-in-out forwards;
+}
+
+@keyframes cargar-barra {
+    100% {
+        width: 100%;
+    }
+
+    0% {
+        width: 0;
+    }
+}
+
+/* Animaciones */
 
 
 
-
+/*----------------------*/
+/*        Navbar        */
+/*----------------------*/
 
 .language-icon {
+
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
+
     width: 24px;
     min-height: 24px;
 
     padding: 12px;
-
     margin-right: 4px;
 }
 
 .icon-es {
-
     background-image: url('../img/es.png');
-
 }
 
 .icon-en {
-
     background-image: url('../img/gb.png');
-
 }

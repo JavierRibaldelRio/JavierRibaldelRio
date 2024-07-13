@@ -1,0 +1,21 @@
+---
+title: "Proyects"
+listing:
+  contents: proyects
+  sort: "date desc"
+  grid-item-align: right
+  type: grid
+  sort-ui: false
+  date-format: medium
+  grid-columns: 3
+  filter-ui: false
+  fields: [title, description, date, image]
+
+ 
+
+title-block-banner: true
+
+
+---
+
+

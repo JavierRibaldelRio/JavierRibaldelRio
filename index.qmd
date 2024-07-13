@@ -1,11 +1,16 @@
 ---
 title: "Javier Ribal del Río"
 image: img/Javier-Ribal-del-Rio.jpg
+
 about:
+
+  id: javier-about
+
   template: trestles
+
   image-title: Javier Ribal del Río
   image-shape: round
-  image-width: 15em
+  image-width: 15em  
   
   links:
     - icon: linkedin
@@ -21,7 +26,85 @@ about:
       href: mailto:javierribaldelrio@gmail.com
 
 ---
+<!-- Lo que aparece al lado de mi foto -->
 
-About this profile
+:::{#javier-about}
 
+## Sobre mí
+
+  Hola, me llamó Javier Ribal ad fasf asdj as faksjd ajf lasj flaj lajlfd jadlf jaf jlaj fajdsf ajd asd asd a  sda jdsfjasd jlañds als adflafdl ad sflad flasfd lads laslf asld saldj ajd faj  dsfkal dfa  d f sd  
+
+  Hola, me llamó Javier Ribal ad fasf asdj as faksjd ajf lasj flaj lajlfd jadlf jaf jlaj fajdsf ajd asd asd a  sda jdsfjasd jlañds als adflafdl ad sflad flasfd lads laslf asld saldj ajd faj  dsfkal dfa  d f sd
+
+:::
+
+<i class="fa-brands fa-js"></i>
+
+::: panel-tabset
+#### Technologies
+
+- Web development
+  - HTML  - CSS - JavaScript
+  - D3.js (Basic Knowledge)
+  - React
+  - Express (Basic Knowledge)
+
+- C++ (Basic Knowledge)
+
+
+<!-- Niveles de lenguaje con animación -->
+#### Languages
+<strong>English:</strong> B2 (medium-high)
+
+<div class="progress" role="progressbar" aria-label="Succes" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
+  <div class="progress-bar bg-success barra-transicion transición-barra" style="max-width: 60%"></div>
+</div>
+
+<br>
+
+
+<strong>Spanish:</strong> native level
+<div class="progress" role="progressbar" aria-label="Danger" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+  <div class="progress-bar bg-danger transición-barra" style="max-width: 100%"></div>
+</div>
+
+<br>
+
+<strong>Valencian/Catalan:</strong> native level
+<div class="progress" role="progressbar" aria-label="Warning" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+  <div class="progress-bar bg-warning transición-barra" style="max-width: 100%"></div>
+</div>
+
+#### Certifications
+
+<div class="accordion" id="accordionExample">
+<div class="accordion-item">
+<h2 class="accordion-header" id="headingOne">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+  freeCodeCamp
+</button>
+</h2>
+<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+- [Responsive Web Design](https://freecodecamp.org/espanol/certification/Ribal21/responsive-web-design)    2021-09-14
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/Ribal21/javascript-algorithms-and-data-structures) 2022-04-16
+- [Front End Development Libraries](https://www.freecodecamp.org/certification/Ribal21/front-end-development-libraries) 2022-08-11
+- [Data Visualization](https://www.freecodecamp.org/certification/Ribal21/data-visualization) 2022-09-09
+- [Back End Development and APIs](https://www.freecodecamp.org/certification/Ribal21/back-end-development-and-apis) 2022-12-08
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<h2 class="accordion-header" id="headingTwo">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+  CS50x
+</button>
+</h2>
+<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+[CS50's Introduction to Computer Science](https://certificates.cs50.io/ff73d592-ff7e-431a-983a-a0867aa6cc72.pdf?size=letter) 2023-07-01
+</div>
+</div>
+</div> 
+</div>
 
