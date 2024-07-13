@@ -1,10 +1,11 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2024-07-04"
-categories: [news]
-
+title: "Comparator of electoral programs CV 28M"
+date: "2023"
+image: true
+description: "A comparator of the electoral programs of the main political parties that ran in the Valencian Community elections on May 28, 2023"
 ---
+
+![](cover.png)
 
 This is the first post in a Quarto blog. Welcome!Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
 Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
@@ -17,6 +18,5 @@ Since this post doesn't specify an explicit `image`, the first image in the post
 Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
 
 
-![](thumbnail.jpg)
 
 Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.

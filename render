@@ -4,4 +4,4 @@ quarto render
 
 quarto render es
 
-firefox --new-tab file:///home/Link/Desktop/Programacion/JavierRibaldelRio/_site/index.html
+firefox --new-tab file:///home/Link/Desktop/Programacion/Web/JavierRibaldelRio/_site/index.html

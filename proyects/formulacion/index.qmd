@@ -1,0 +1,11 @@
+---
+title: "Formulation Game"
+description: A card game to encourage learning the correct writing of the inorganic chemistry formulation, in Spanish.
+image: true
+date: "2021"
+---
+
+![](cover.png)
+
+
+
