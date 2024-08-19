@@ -14,7 +14,7 @@ website:
   navbar:
 
     left: 
-      - proyects.qmd
+      - pages/proyects.qmd
       - blog.qmd
     right:
      
@@ -31,9 +31,7 @@ website:
 
 format:
   html:
-    theme: 
-      light: sandstone
-      dark: darkly
+    theme: sandstone
     css: styles/styles.css
     includes:
       in-header: |

@@ -8,11 +8,11 @@ project:
 website:
   title: "Javier Ribal del Río"
   navbar:
-    right:
-      - href: ../blog.html
-        text: Blog
+    left:
+      - pages/proyects.qmd
+      - blog.qmd
 
-      - pages/hobbies.qmd 
+    right:       
       - href: ../index.html
         text: "<span class='language-icon icon-en'></span>English"    
       - icon: github
@@ -26,9 +26,7 @@ website:
 
 format:
   html:
-    theme: 
-      light: sandstone
-      dark: darkly
+    theme: sandstone
     css: ../styles/styles.css
 
 
