@@ -1,0 +1,23 @@
+---
+title: "Samba Configuration Settings"
+author: "Javier Ribal del Río"
+date: "2024-07-19"
+categories: [protocol, internet, linux]
+image: "image.jpg"
+---
+
+SMB, also known as Samba, is an internet protocol that, among other things, allows users to share files between computers. In this post, I will explain how to create and share folders in Linux.
+
+1. After installing Samba, we have to modify the configuration file
+
+```
+library(tidyverse)
+library(palmerpenguins)
+penguins |>                                      # <1>
+  mutate(                                        # <2>
+    bill_ratio = bill_depth_mm / bill_length_mm, # <2>
+    bill_area  = bill_depth_mm * bill_length_mm  # <2>
+  )                                              # <2>
+```
+1. Take `penguins`, and then,
+2. add new columns for the bill ratio and bill area.
