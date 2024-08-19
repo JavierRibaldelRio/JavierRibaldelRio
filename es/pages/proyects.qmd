@@ -1,0 +1,39 @@
+---
+title: "Proyects"
+listing:
+  contents:
+    - path: https://github.com/JavierRibaldelRio/Trabajo-Filosofia-Elecciones-CV-2023
+      image: ../../img/Proyects/28M.png
+      title: "Comparador de programas electorales elecciones autonómicas CV 28M"
+      description: Un comparador de programas electorales de los principales partidos políticos que partiparon en las eleccioes autonómicas de la Comunidad Valenciana el 28 de mayo del 2023. Hecho con React y D3.js
+      date: "2023"
+
+  
+    - path: https://github.com/JavierRibaldelRio/Formulacion
+      image: ../../img/Proyects/Formulacion.png
+      title: "Formulation Game"
+      description: A card game to encourage learning the correct writing of the inorganic chemistry formulation, in Spanish.
+      date: "2021"
+
+  sort: "date desc"
+  type: grid
+  sort-ui: false
+  date-format: 'YYYY'
+  grid-columns: 3
+  filter-ui: false
+  fields: [title, description, date, image]
+
+ 
+
+title-block-banner: true
+
+
+---
+    
+    
+    
+    
+    
+    
+    
+    

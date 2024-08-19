@@ -1,0 +1,33 @@
+---
+title: "Proyects"
+listing:
+  contents:
+    - path: https://github.com/JavierRibaldelRio/Trabajo-Filosofia-Elecciones-CV-2023
+      image: ../img/Proyects/28M.png
+      title: "Comparator of electoral programs CV 28M"
+      description: A comparator of the electoral programs of the main political parties that ran in the Valencian Community elections on May 28, 2023. Built with React & D3.js
+      date: "2023"
+
+    - path: https://github.com/JavierRibaldelRio/Formulacion
+      image: ../img/Proyects/Formulacion.png
+      title: "Formulation Game"
+      description: A card game to encourage learning the correct writing of the inorganic chemistry formulation, in Spanish.
+      date: "2021"
+
+  sort: "date desc"
+  type: grid
+  sort-ui: false
+  date-format: 'YYYY'
+  grid-columns: 3
+  filter-ui: false
+  fields: [title, description, date, image]
+
+ 
+
+title-block-banner: true
+
+
+---
+
+<!--  Explanation of how to use the listing page to redirect to links, from outside the website https://github.com/quarto-dev/quarto-cli/discussions/6309
+ -->
