@@ -14,4 +14,4 @@
   - Data Visualization: [https://www.freecodecamp.org/certification/Ribal21/data-visualization](https://www.freecodecamp.org/certification/Ribal21/data-visualization) 2022-09-09
   - Back End Development and APIs [https://www.freecodecamp.org/certification/Ribal21/back-end-development-and-apis](https://www.freecodecamp.org/certification/Ribal21/back-end-development-and-apis) 2022-12-08
   - Relational Database [https://www.freecodecamp.org/certification/Ribal21/relational-database-v8](https://www.freecodecamp.org/certification/Ribal21/relational-database-v8) 2024-08-03
-  - Scientif Computing with Python[https://www.freecodecamp.org/certification/Ribal21/scientific-computing-with-python-v7](https://www.freecodecamp.org/certification/Ribal21/scientific-computing-with-python-v7) 2024-08-22
+  - Scientific Computing with Python [https://www.freecodecamp.org/certification/Ribal21/scientific-computing-with-python-v7](https://www.freecodecamp.org/certification/Ribal21/scientific-computing-with-python-v7) 2024-08-22
