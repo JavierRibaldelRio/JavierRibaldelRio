@@ -1,5 +1,33 @@
 <h1 align="center">Hi 👋, I'm Javier Ribal del Río</h1>
-<h3 align="center">Computer Science & Business Administration student at UPV</h3>
+
+```bash
+# Terminal session: javierribaldelrio.sh
+
+whoami
+# javierribaldelrio
+
+uname -a
+# ArchLinux Javier 6.7.9-arch1-1 #1 SMP PREEMPT_DYNAMIC x86_64 GNU/Linux
+
+echo "🎓 Student of CS & Business at UPV"
+echo "📊 Interests: Data Analysis · AI · Programming · Linux"
+echo "🎯 Hobbies: Reading · Playing tennis"
+
+locale -a
+#en_US.utf8             # English — Professional working proficiency
+#es_ES.utf8             # Spanish — Native speaker
+#ca_ES.utf8             # Catalan / Valencian — Native speaker
+
+timedatectl | grep "Time zone"
+# Time zone: Europe/Madrid (CEST, +0200)
+
+# Fun facts
+FAVORITE_COLOR="red"
+FAVORITE_NUMBER=121
+DISTRO="Arch Linux"
+```
+<h3 align="left">🧰 Languages and Tools:</h3>
+
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 
@@ -71,13 +99,16 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=javierribaldelrio&show_icons=true&locale=en" alt="GitHub stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javierribaldelrio" alt="GitHub streak" />
-</p>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=javierribaldelrio&show_icons=true&locale=en" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=javierribaldelrio" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/javier-ribal-del-rio" target="blank">
