@@ -1,17 +1,49 @@
-# PROGRAMMING COURSES
- 
-- Edx:
-  -  LF-UPV-101x: Introducción a Linux  [https://courses.edx.org/certificates/f5157d9c305541308f0177579e2211da](https://courses.edx.org/certificates/f5157d9c305541308f0177579e2211da) 2024-08-21
-  - SD4x: Programming for the Web with JavaScript 2020-2021
-  - DART.IMT.C.06: Linux Basics: The Command Line Interface 2020-08
-- CS50
-  - CS50's Introduction to Computer Science: [https://certificates.cs50.io/ff73d592-ff7e-431a-983a-a0867aa6cc72.pdf?size=letter](https://certificates.cs50.io/ff73d592-ff7e-431a-983a-a0867aa6cc72.pdf?size=letter) 2023-07-01
+<h1 align="center">Hi 👋, I'm Javier Ribal del Río</h1>
+<h3 align="center">Computer Science & Business Administration student at UPV</h3>
 
-- Free Code Camp: 
-  - Responsive Web Design: [https://freecodecamp.org/espanol/certification/Ribal21/responsive-web-design](https://freecodecamp.org/espanol/certification/Ribal21/responsive-web-design)    2021-09-14
-  - JavaScript Algorithms and Data Structures: [https://www.freecodecamp.org/certification/Ribal21/javascript-algorithms-and-data-structures](https://www.freecodecamp.org/certification/Ribal21/javascript-algorithms-and-data-structures) 2022-04-16
-  - Front End Development Libraries: [https://www.freecodecamp.org/certification/Ribal21/front-end-development-libraries](https://www.freecodecamp.org/certification/Ribal21/front-end-development-libraries) 2022-08-11
-  - Data Visualization: [https://www.freecodecamp.org/certification/Ribal21/data-visualization](https://www.freecodecamp.org/certification/Ribal21/data-visualization) 2022-09-09
-  - Back End Development and APIs [https://www.freecodecamp.org/certification/Ribal21/back-end-development-and-apis](https://www.freecodecamp.org/certification/Ribal21/back-end-development-and-apis) 2022-12-08
-  - Relational Database [https://www.freecodecamp.org/certification/Ribal21/relational-database-v8](https://www.freecodecamp.org/certification/Ribal21/relational-database-v8) 2024-08-03
-  - Scientific Computing with Python [https://www.freecodecamp.org/certification/Ribal21/scientific-computing-with-python-v7](https://www.freecodecamp.org/certification/Ribal21/scientific-computing-with-python-v7) 2024-08-22
+<h3 align="left">🧰 Languages and Tools:</h3>
+<p align="left">
+  <!-- Web Development -->
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <img src="express.png" alt="Express.js" width="40" height="40"/>
+  <img src="flask.png" alt="Flask" width="40" height="40"/>
+  <a href="https://d3js.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="40" height="40"/>
+  </a>
+
+  <!-- Data Science -->
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  </a>
+  <img src="quarto_logo.png" alt="Quarto" width="40" height="40"/>
+</p>
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=javierribaldelrio&show_icons=true&locale=en" alt="javierribaldelrio" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javierribaldelrio" alt="javierribaldelrio" />
+</p>
+
+<h3 align="left">📬 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/javier-ribal-del-rio" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
