@@ -22,7 +22,7 @@ timedatectl | grep "Time zone"
 # Time zone: Europe/Madrid (CEST, +0200)
 
 # Fun facts
-FAVORITE_COLOR="red"
+FAVORITE_COLOR="ff0000"
 FAVORITE_NUMBER=121
 DISTRO="Arch Linux"
 ```
