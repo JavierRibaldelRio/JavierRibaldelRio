@@ -72,7 +72,9 @@ DISTRO="Arch Linux"
   <a href="https://www.r-project.org/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="" width="40" height="40" style="vertical-align: middle;" />
   </a>
-
+  <a href="https://shiny.posit.co/" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/shiny.png" alt="Shiny logo" width="40" height="40" style="vertical-align: middle;" />
+</a>
   <a href="#" style="text-decoration: none;">
     <img src="quarto_logo.png" alt="" width="40" height="40" style="vertical-align: middle;" />
   </a>
